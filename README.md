@@ -1,1 +1,2 @@
-# gitkillsCreating a new branch is quick
+# gitkills
+Creating a new branch is quick AND simple.
